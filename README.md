@@ -1,12 +1,6 @@
 <h1 >Hi 👋, I'm Rahul Yadav (Tech with Rahul)</h1>
 <h3>A passionate web developer.</h3>
-<img src="https://user-images.githubusercontent.com/66284362/159115513-3ae48dd6-3d9c-416f-83d4-db48de23fac8.png" >
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=techwithaman001&label=Profile%20views&color=0e75b6&style=flat" alt="techwithaman001" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techwithaman001" alt="techwithaman001" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img src="https://qph.cf2.quoracdn.net/main-qimg-c7f8b1214b6d3d01b698819c4d677ab3" >
 
 
 - 👨‍💻 All of my projects are available at [ 
