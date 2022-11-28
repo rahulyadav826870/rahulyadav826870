@@ -4,8 +4,8 @@
 
 
 - 👨‍💻 All of my projects are available at [ 
- https://github.com/rahulyadav826870]( 
- https://github.com/rahulyadav826870)
+https://github.com/rahulyadav826870?tab=stars]( 
+https://github.com/rahulyadav826870?tab=stars)
 
 - 💬 Ask me about **React**
 
