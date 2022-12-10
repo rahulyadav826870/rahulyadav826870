@@ -48,14 +48,8 @@ https://github.com/rahulyadav826870?tab=stars)
 
 <p><img align="left" margin-bottom="10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulyadav826870&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="languages" /></p>
 
-<video width="400" controls>
-  <source src="https://github.com/rahulyadav826870" type="video/mp4">
-  <source src="mov_bbb.ogg" type="video/ogg">
-  Your browser does not support HTML video.
-</video>
 
 <hr/>
-
 <div width="50px" >
  <img src="https://user-images.githubusercontent.com/103634544/206856269-e96d40e6-47a0-4995-872d-9ed2c62a4802.png" alt="gif" />
 </div>
