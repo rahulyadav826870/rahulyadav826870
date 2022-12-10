@@ -1,13 +1,21 @@
-<h1 >Hi 👋, I'm Rahul Yadav (Tech with Rahul)</h1>
-<h3>A passionate web developer.</h3>
-<img src="https://qph.cf2.quoracdn.net/main-qimg-c7f8b1214b6d3d01b698819c4d677ab3" >
+ [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+👋;Wellcome+To+My+Github+Profile+🙏)](https://git.io/typing-svg)
+<h1 > I'm Rahul Yadav (Tech with Rahul)</h1>
+<h3>A passionate frontend developer who focuses on writing clean, elegant and efficient code.</h3>
+
+
+
+<hr/>
+<div align="center" >
+ <img src="https://user-images.githubusercontent.com/103634544/206855910-ff29644d-437a-4f5b-bc53-4abae1bd9140.gif" alt="gif" />
+</div>
+<hr/>
 
 
 - 👨‍💻 All of my projects are available at [ 
 https://github.com/rahulyadav826870?tab=stars]( 
 https://github.com/rahulyadav826870?tab=stars)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React,JS,HTML**
 
 - 📫 How to reach me **rahulyadav826870@gmail.com**
 
@@ -30,8 +38,9 @@ https://github.com/rahulyadav826870?tab=stars)
  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://camo.githubusercontent.com/ee71fcc1aa3d059265517741dffc4161922fd744377e7a5f07c43381d0aa9aac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747970657363726970742d2532333030374143432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" alt="csharp" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="flutter" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="go" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="python" width="40" height="40"/> </a> </p>
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white)![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=plastic&logo=chakraui&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+<hr/>
 
 <p><img align="left" color="black" margin-bottom="10px" src="https://github-readme-stats.vercel.app/api?username=rahulyadav826870&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats" /></p>
 
@@ -44,4 +53,12 @@ https://github.com/rahulyadav826870?tab=stars)
   <source src="mov_bbb.ogg" type="video/ogg">
   Your browser does not support HTML video.
 </video>
+
+<hr/>
+
+### ✍ Random Dev Quote
+<div width="50px" >
+ <img src="https://user-images.githubusercontent.com/103634544/206856269-e96d40e6-47a0-4995-872d-9ed2c62a4802.png" alt="gif" />
+</div>
+
 
