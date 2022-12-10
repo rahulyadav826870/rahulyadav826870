@@ -56,7 +56,6 @@ https://github.com/rahulyadav826870?tab=stars)
 
 <hr/>
 
-### ✍ Random Dev Quote
 <div width="50px" >
  <img src="https://user-images.githubusercontent.com/103634544/206856269-e96d40e6-47a0-4995-872d-9ed2c62a4802.png" alt="gif" />
 </div>
