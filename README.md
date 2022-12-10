@@ -1,6 +1,6 @@
  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+👋;Wellcome+To+My+Github+Profile+🙏)](https://git.io/typing-svg)
 <h1 > I'm Rahul Yadav (Tech with Rahul)</h1>
-<h3>A passionate frontend developer who focuses on writing clean, elegant and efficient code.</h3>
+<h3>A passionate developer who focuses on writing clean, elegant and efficient code.</h3>
 
 
 
