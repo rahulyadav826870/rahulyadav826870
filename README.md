@@ -15,7 +15,7 @@
 https://github.com/rahulyadav826870?tab=stars]( 
 https://github.com/rahulyadav826870?tab=stars)
 
-- 💬 Ask me about **React,JS,HTML**
+- 💬 Ask me about **HTML, CSS, JS, React, React Next, NPM , MongoDB, Express, Node JS, Chakra-UI, Tailwind, Bootstrap, Vercel, Netlify, Cyclic,**
 
 - 📫 How to reach me **rahulyadav826870@gmail.com**
 
