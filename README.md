@@ -20,7 +20,7 @@ https://github.com/rahulyadav826870?tab=stars)
 - 📫 How to reach me **rahulyadav826870@gmail.com**
 
 
-# oprating system known:
+# Operating System Known:
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
